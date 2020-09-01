@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a personal project (https://minitrades.app). Built with NestJS and Angular.
-- 🔭 I also work for a company called **Pandô APPs**. We usually use Laravel, Ionic and Flutter.
+- 🔭 I’m currently working on a personal project (https://minitrades.app). Built with NestJS, Angular and Docker.
+- 🔭 I also work for a company called **Pandô APPs**. We usually use Laravel, Ionic, Flutter and Docker.
 - 🌱 I’m currently learning NestJS and Flutter (and some other stuff)
 - 📫 How to reach me: felipereis@pandoapps.com.br

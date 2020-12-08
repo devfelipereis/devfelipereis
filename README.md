@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [MiniTrades](https://minitrades.app). Built with NestJS, Angular and Docker.
-
 - 🔭 I also work for a company called [Pandô APPs](https://pandoapps.com.br). We usually use Laravel, Ionic, Flutter and Docker.
 
 - 🌱 I’m currently learning **NestJS, Flutter and and some other stuff**

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I also work for a company called [Pandô APPs](https://pandoapps.com.br). We usually use Laravel, Ionic, Flutter and Docker.
+- 🔭 I work for a company called [Pandô APPs](https://pandoapps.com.br). We usually use Laravel, Ionic, Flutter and Docker.
 
-- 🌱 I’m currently learning **NestJS, Flutter and and some other stuff**
+- 🌱 I’m currently learning **NestJs,Go and some other stuff**
 
 - 📫 How to reach me **felipereis@pandoapps.com.br**
 

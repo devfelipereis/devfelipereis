@@ -3,7 +3,7 @@
 
 - 🔭 I work for a company called [Pandô APPs](https://pandoapps.com.br). We usually use Laravel, Ionic and Flutter.
 
-- 🌱 I’m currently learning **NestJs, Go and some other stuff**
+- 🌱 I’m currently learning **Go and some other stuff**
 
 - 📫 How to reach me **felipereis@pandoapps.com.br**
 

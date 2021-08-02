@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I work for a company called [Pandô APPs](https://pandoapps.com.br). We usually use Laravel, Ionic and Flutter.
-
-- 📫 How to reach me **felipereis@pandoapps.com.br**
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfelipereis&layout=compact&hide=html" alt="devfelipereis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devfelipereis&show_icons=true" alt="devfelipereis" /></p>
